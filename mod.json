@@ -1,0 +1,24 @@
+{
+  "entry": "main.js",
+  "id": "demon-core",
+  "version": "0.0.0",
+  "name": "Demon Core",
+  "author": "SkimnerPhi",
+  "description": "Namespaces, more definition managers, and other major compat overhauls",
+  "minimumGameVersion": ">=1.5.0",
+  "extra": {
+    "authors": [
+      {
+        "name": "SkimnerPhi",
+        "icon": "https://avatars.githubusercontent.com/u/69558934",
+        "website": "https://skimnerphi.net"
+      }
+    ],
+    "library": true,
+    "readme": "",
+    "updateURL": "https://skimnerphi.net/api/v1/manifest/demon-core"
+  },
+  "website": "https://skimnerphi.net/mods/demon-core",
+  "runBefore": ["*"],
+  "runAfter": []
+}
